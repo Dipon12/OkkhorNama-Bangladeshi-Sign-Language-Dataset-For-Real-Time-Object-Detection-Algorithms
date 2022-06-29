@@ -41,7 +41,9 @@ OkkhorNama consists of around 12K images of 46 different categories consisting o
 Following figure gives a statistical overview of our dataset. The top left image indicates the histogram of the category distribution from where we can observe that the dataset is almost balanced with a few fluctuations. The top right image represents the heatmap of the labels' positions where the center of each label is plotted as a point.
 Heatmap of labels' dimension is plotted in the bottom images where the bottom left one depicts the x-coordinate and y-coordinate of the labels as a point and the bottom right one depicts the width and height of the labels as a point.
 
-<img src ='./images/dataset/labels.jpg'>
+<img src ='./images/dataset/labels.jpg' height = "400" width="400">
+
+<br>
 
 ## 📈 Training Result 
 
